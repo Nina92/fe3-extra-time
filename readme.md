@@ -1,18 +1,14 @@
-# ![Extra Time][banner]
+# Extra Time
+This is a list of the extra things I did to achieve the goals for Frontend 3:
 
-This repository can be forked for [**extra time**][et] of [frontend 3][fe3]
-at [**@CMDA**][cmda].
+* Looking stuff up on [w3schools](https://www.w3schools.com/) like:
+  * How to create SVG elements like `polygon` and `text`
+  * How to use standard Javascript stuff like statements, functions, arrays and operators
+  * How to use methods for cleaning data like `slice()`, `splice()`, `indexOf()`, `trim()` and `replace()`
+* Using the [D3 reference](https://github.com/d3/d3/blob/master/API.md) to look things up about D3
+* Using the website of [Scott Murray](http://alignedleft.com/tutorials/d3) to understand D3 better (these tutorials address an older version of D3 but they explain everything very clearly, it helped me a lot)
+* Viewing a [video](https://www.youtube.com/watch?v=aNbgrqRuoiE) about how to make a world map with D3 and topojson (still in progress, I do have a world map now because of that video but I haven't any data attached to it yet)
+* Being active on the frontend 3 slack channel where I asked many questions and tried to help others
+* A lot of googling. Often I found answers on [stackoverflow](https://stackoverflow.com/)
 
-## TODO
-
-*   [ ] Replace this document in your fork with your own readme!
-
-[banner]: https://cdn.rawgit.com/cmda-fe3/logo/9fd877f/banner-extra-time.svg
-
-[et]: https://github.com/cmda-fe3/course-17-18/blob/master/participation.md#extra-time
-
-[fe3]: https://github.com/cmda-fe3
-
-[cmda]: https://github.com/cmda
-
-[pages]: https://pages.github.com
+© Nina van den Berg
